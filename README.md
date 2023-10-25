@@ -1,4 +1,4 @@
-## Eaí blz? Eu sou o Gustavo Feriani, prof de Dev Front-End no SENAI e estudante de programação e tecnologia!
+## Eaí blz? Eu sou o Gustavo Feriani...
 
 
 ## 💻 Ferramentas e Tecnologias
@@ -17,12 +17,15 @@
 </div>
   
  ## 
-## :raising_hand: Sobre Mim
+## 💻🍺🧙: Sobre Mim
 
-Apaixonada por Tecnologia, Filmes e Ilustração.<br>
-Sou aluna <a href="" target="_blank">SENAI</a>, do curso de Desenvolvimento de Sistemas. Além disso, participo da aprendizagem das plataformas: <a href="https://www.dio.me" target="_blank">DIO<a/>, <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>. Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<br>
-Estou me especializando em Front-end, mas tenho boas noções de Back-end, pois meu objetivo a longo prazo é me tornar Full-Stack.<br> Atualmente me aprofundando em: <b>React</b> e <b>Javascript</b>.
-<br>
+
+<div>
+  <p>Prof de Dev Front-End no SENAI e estudante vitalício de programação e tecnologia!</p>
+</div>
+
+Sou formado em Sistemas para Internet na FAM.<br> 
+Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<br>
  
 <div> 
   <a href="https://www.instagram.com/gustavo.feriani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
