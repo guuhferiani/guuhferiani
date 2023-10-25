@@ -1,13 +1,6 @@
 ## Eaí blz? Eu sou o Gustavo Feriani, prof de Dev Front End no Senai e estudante de programação e tecnologia!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
+
 ## 💻 Ferramentas e Tecnologias
 <div align="center">
 <img src="https://img.shields.io/badge/CSS3-d02f2f?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
