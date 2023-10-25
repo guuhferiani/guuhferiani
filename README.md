@@ -47,6 +47,6 @@ Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente a
 <div align="center">
 Loanding  
 <br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/guuhferiani/guuhferiani/output/github-contribution-grid-snake.svg"/>
 <br/><br/><br/>
 </div>
