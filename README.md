@@ -3,13 +3,13 @@
 
 ## 💻 Ferramentas e Tecnologias
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-d0a82f?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/CSS3-d02f2f?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/HTML5-f56320?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/CSS3-2079f5?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/JavaScript-d0d02f?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
   <img src="https://img.shields.io/badge/Github-d0802f?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Ilustrator-57d02f?style=for-the-badge&logo=adobeillustrator&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Photoshop-2fd057?style=for-the-badge&logo=adobephotoshop&logoColor=white" target="_blank"></a>
-  <img src="https://img.shields.io/badge/PowerBI-2fd02f?style=for-the-badge&logo=powerbi&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/Ilustrator-f8a829?style=for-the-badge&logo=adobeillustrator&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/Photoshop-35b4e8?style=for-the-badge&logo=adobephotoshop&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/PowerBI-f0c537?style=for-the-badge&logo=powerbi&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/figma-2fd0d0?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/Canva-a8d02f?style=for-the-badge&logo=canva&logoColor=black" target="_blank"></a>
 </div>
