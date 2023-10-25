@@ -37,14 +37,10 @@ Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente a
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=guuhferiani&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=guuhferiani&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+
+ ## :mortar_board: Github Stats
+<div>
+  <a href="https://github.com/guuhferiani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guuhferiani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuhferiani&layout=compact&langs_count=7&theme=dracula"/>
+</div>
