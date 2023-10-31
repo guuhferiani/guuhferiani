@@ -50,5 +50,5 @@ Loanding
 <div>
   <picture align="center"> 
     <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-svg.svg">
-  </picture
+  </picture>
 </div>
