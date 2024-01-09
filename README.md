@@ -36,7 +36,7 @@ Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente a
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
+ ## 
  ## :mortar_board: Github Stats
 <div>
   <a href="https://github.com/guuhferiani"></a>
