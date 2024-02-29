@@ -46,7 +46,7 @@ Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente a
 
 ##
 <div>
-Loanding   
+Loanding Snake Status
 </div>
 <div>
   <picture align="center"> 
