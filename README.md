@@ -49,6 +49,11 @@ Loanding Snake Status
 </div>
 <div>
   <picture align="center"> 
+                  - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            
+
+    
     <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-svg.svg">
   </picture>
 </div>
