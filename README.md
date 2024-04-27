@@ -48,12 +48,7 @@ Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente a
 Loanding Snake Status
 </div>
 <div>
-  <picture align="center"> 
-                  - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
-            
-
-    
+  <picture align="center">    
     <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-svg.svg">
   </picture>
 </div>
