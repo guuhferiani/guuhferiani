@@ -1,6 +1,6 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ea%C3%AD+blz%3F+Sou+o+Gustavo+Feriani.+.+." alt="Typing SVG" /></a>
 
-## 💻 Ferramentas e Tecnologias
+💻 Ferramentas e Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML5-f56320?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/CSS3-2079f5?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
@@ -12,7 +12,7 @@
 </div>
   
  ## 
-## 💻🍺🧙: Sobre Mim
+💻🍺🧙: Sobre Mim
 
 
 <div>
