@@ -1,6 +1,6 @@
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ea%C3%AD+blz%3F+Sou+o+Gustavo+Feriani.+.+." alt="Typing SVG" /></a>
+<h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ea%C3%AD+blz%3F+Sou+o+Gustavo+Feriani.+.+." alt="Typing SVG" /></a> </h1>
 
-💻 Ferramentas e Tecnologias
+<h2> 💻 Ferramentas e Tecnologias </h2>
 <div>
   <img src="https://img.shields.io/badge/HTML5-f56320?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/CSS3-2079f5?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
@@ -12,7 +12,7 @@
 </div>
   
  #
-## 💻🍺🧙: Sobre Mim
+<h2> 💻🍺🧙: Sobre Mim </h2>
 
 
 <div>
@@ -23,8 +23,8 @@ Estudando em Pós de Inteligência Artificial e Machine Learning. <br>
 E formado em Sistemas para Internet na FAM.<br> 
 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<br>
 
-  #
-  Entre em Contato:
+#
+</h2> Entre em Contato: </h2>
 <div>
   <a href="https://www.instagram.com/gustavo.feriani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/guhferiani" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
