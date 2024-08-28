@@ -18,7 +18,7 @@
   <p>Prof de Dev Front-End no SENAI e estudante vitalício de programação e tecnologia!</p>
 </div>
 
-Estudando em Pós de Inteligência Artificial e Machine Learning. <br>
+Estudante em Pós de Inteligência Artificial e Machine Learning. <br>
 E formado em Sistemas para Internet na FAM.<br> 
 Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<br>
 
