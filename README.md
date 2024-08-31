@@ -29,11 +29,16 @@ Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente a
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  	<a href="https://www.facebook.com/guhferiani" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=instagram&logoColor=white"> </a>
- 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href="#"> <img src="https://img.shields.io/badge/-Gmail-00a368?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/gustavo-feriani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ 	<a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.twitch.tv/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+    <img src="https://img.shields.io/badge/-Gmail-00a368?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gustavo-feriani/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
  #
@@ -53,4 +58,4 @@ Loanding Snake Status
   <picture align="center">    
     <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-dark.svg">
   </picture>
-</div>
+</div>    
