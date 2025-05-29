@@ -19,7 +19,7 @@
 <h2> 💻🍺🧙: Sobre Mim </h2>
 
 <div>
-  <p>Prof de Dev Front-End no SENAI e estudante vitalício de programação e tecnologia!</p>
+  <p>Docente de Dev Front-End no SENAI e estudante vitalício de programação e tecnologia!</p>
 </div>
 
 Estudante em Pós de Inteligência Artificial e Machine Learning. <br>
