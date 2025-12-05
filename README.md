@@ -33,7 +33,7 @@ Para expandir cada vez mais minha stack e meu portfólio, estou constantemente a
 ---
 
 <h2> 📬 Entre em Contato </h2>
-<div align="end">
+<div align="start">
 
   <a href="https://www.instagram.com/gustavo.feriani/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
