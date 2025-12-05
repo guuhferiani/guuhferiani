@@ -5,13 +5,14 @@
 </h1>
 
 <h2> 💻 Ferramentas e Tecnologias </h2>
-<div align="center">
+<div align="start">
 
   <!-- Linguagens -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
   <!-- Ferramentas -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -32,7 +33,7 @@ Para expandir cada vez mais minha stack e meu portfólio, estou constantemente a
 ---
 
 <h2> 📬 Entre em Contato </h2>
-<div align="center">
+<div align="end">
 
   <a href="https://www.instagram.com/gustavo.feriani/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
