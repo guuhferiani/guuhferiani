@@ -33,7 +33,7 @@ Para expandir cada vez mais minha stack e meu portfólio, estou constantemente a
 ---
 
 <h2> 📬 Entre em Contato </h2>
-<div align="start">
+<p align="start">
 
   <a href="https://www.instagram.com/gustavo.feriani/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -55,16 +55,16 @@ Para expandir cada vez mais minha stack e meu portfólio, estou constantemente a
   </a>
 
   
-</div>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guuhferiani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guuhferiani&layout=compact&langs_count=7&theme=dracula" />
-</div>
+</p>
 
 ---
 
