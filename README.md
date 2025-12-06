@@ -71,5 +71,5 @@ Para expandir cada vez mais minha stack e meu portfólio, estou constantemente a
 ## 🐍 Snake Status
 
 <div align="center">
-  <img src="https://github.com/gustavoferiani/gustavoferiani/blob/main/snake.svg" alt="Snake animation">
+  <img src="https://github.com/gustavoferiani/gustavoferiani/blob/main/snake-dark.svg" alt="Snake animation">
 </div>
