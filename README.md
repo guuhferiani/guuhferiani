@@ -63,9 +63,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guuhferiani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=guuhferiani&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guuhferiani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=guuhferiani&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" />
 </p>
+
 
 ---
 
