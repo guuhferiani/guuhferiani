@@ -63,15 +63,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guuhferiani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=guuhferiani&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" />
+  <img src="https://github-stats-extended.vercel.app/api?username=guuhferiani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=guuhferiani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,vue,php&cache_seconds=1800" height="165" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=guuhferiani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🐍 Snake Status
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/guuhferiani/guuhferiani/output/snake-dark.svg" alt="Snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guuhferiani/guuhferiani/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guuhferiani/guuhferiani/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/guuhferiani/guuhferiani/output/snake-dark.svg">
+  </picture>
 </div>
+
