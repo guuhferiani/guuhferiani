@@ -42,15 +42,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=guuhferiani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&hide=issues,prs" height="150" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=guuhferiani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=vue,php&card_width=390&cache_seconds=1800" height="150" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=guuhferiani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&hide=issues,prs&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=guuhferiani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=vue,php&card_width=390&cache_seconds=1800&locale=pt-br" height="150" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=guuhferiani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=guuhferiani&theme=tokyonight&hide_border=true&locale=pt-br" alt="Sequência de Contribuições (Streak)" />
 </p>
 
 ---
