@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=guuhferiani&theme=tokyonight&hide_border=true&locale=pt-br" alt="Sequência de Contribuições (Streak)" />
+  <img src="https://streak-stats.demolab.com?user=guuhferiani&theme=tokyonight&hide_border=true&locale=pt-br&timezone=America%2FSao_Paulo" alt="Sequência de Contribuições (Streak)" />
 </p>
 
 ---
